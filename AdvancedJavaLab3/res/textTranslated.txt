@@ -1,0 +1,3 @@
+Ce programme est but pour traduire un *technical* documentation a partir anglais pour francais en utilisant dictionaire 
+Ce procedure lire un fichier ligne par ligne 
+Il prend donnees a partir le fichier et sauvegarder il en un *hashmap* 

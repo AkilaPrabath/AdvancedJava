@@ -1,0 +1,3 @@
+This program is aim to translate a technical documentation from English to French using dictionary
+This procedure read a file line by line
+It takes data from the file and store it in a hashmap
